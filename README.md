@@ -111,9 +111,6 @@ To deploy via GitHub Pages:
 
 ---
 
-## 👤 Author
-**Tanmay**  
-Data Analyst | CSE Graduate | Financial Modeling & Dashboard Development
 
 ## 🔗 Live Dashboard
 
@@ -129,6 +126,11 @@ This interactive site includes:
 
 You can explore the complete financial story behind PureVibe's IPL co-branding strategy directly through the web interface.
 
+
+
+## 👤 Author
+**Tanmay**  
+Data Analyst | CSE Graduate | Financial Modeling & Dashboard Development
 
 ---
 
