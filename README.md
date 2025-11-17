@@ -8,7 +8,7 @@ The study evaluates sales, raw material usage, contribution margins, and increme
 ## 🖼 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard/dashboard-preview.png" alt="Dashboard Preview" width="700">
+  <img src="Dashboard/Dashboard_Screenshots.png" alt="Dashboard Preview" width="700">
 </p>
 
 ---
@@ -118,6 +118,6 @@ Data Analyst | CSE Graduate | Financial Modeling & Dashboard Development
 ---
 
 ## 📧 Contact
-- LinkedIn: *Add your link here*  
-- GitHub: *Your GitHub profile link*  
+- LinkedIn: *https://www.linkedin.com/in/tanmay19/*  
+- GitHub: *https://github.com/Tan629-D3V*  
 
