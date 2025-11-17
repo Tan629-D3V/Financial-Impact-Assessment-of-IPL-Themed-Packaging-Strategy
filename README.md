@@ -15,23 +15,19 @@ The study evaluates sales, raw material usage, contribution margins, and increme
 
 ## 📁 Repository Structure
 
+```bash
 purevibe-ipl-cba/
-│
 ├── Case Study/
 │ └── PureVibe_Case_Study.pdf
-│
 ├── Dashboard/
 │ ├── index.html
 │ └── dashboard-preview.png
-│
 ├── Data/
 │ └── <Sales & raw material data files>
-│
 ├── Report/
 │ └── Financial Impact Assessment of IPL-Themed Packaging.pdf
-│
 └── README.md
-
+```
 
 ---
 
