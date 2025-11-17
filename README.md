@@ -115,6 +115,21 @@ To deploy via GitHub Pages:
 **Tanmay**  
 Data Analyst | CSE Graduate | Financial Modeling & Dashboard Development
 
+## 🔗 Live Dashboard
+
+The interactive financial impact dashboard is now live and accessible here:
+
+👉 **https://tan629-d3v.github.io/Financial-Impact-Assessment-of-IPL-Themed-Packaging-Strategy/**
+
+This interactive site includes:
+- Dynamic KPI cards  
+- Contribution margin comparison (Old vs New Plan)  
+- Incremental cost breakdown (ads, prep, design)  
+- Fully responsive dashboard built using HTML, TailwindCSS, and Chart.js  
+
+You can explore the complete financial story behind PureVibe's IPL co-branding strategy directly through the web interface.
+
+
 ---
 
 ## 📧 Contact
